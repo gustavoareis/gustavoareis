@@ -115,20 +115,22 @@
 
 ### 📊 Estatísticas
 
-<table>
+### 📊 Estatísticas
+
+<table border="0" cellspacing="0" cellpadding="10">
   <tr>
     <td>
       <img 
-        alt="GitHub Stats" 
         height="200" 
-        src="https://github-readme-stats.vercel.app/api?username=gustavoareis&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+        src="https://github-readme-stats.vercel.app/api?username=gustavoareis&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+        alt="GitHub Stats"
       />
     </td>
     <td>
       <img 
-        alt="Top Langs" 
         height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoareis&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoareis&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+        alt="Top Languages"
       />
     </td>
   </tr>
