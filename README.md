@@ -79,6 +79,14 @@
 />
 <img 
     align="left" 
+    alt="Node.js" 
+    title="Node.js" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.simpleicons.org/nodedotjs/339933"
+/>
+<img 
+    align="left" 
     alt="Next.js" 
     title="Next.js"
     width="30px" 
