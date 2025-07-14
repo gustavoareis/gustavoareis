@@ -91,7 +91,7 @@
     title="Tailwind CSS" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+    src="https://cdn.simpleicons.org/tailwindcss/06B6D4"
 />
 <img 
     align="left" 
