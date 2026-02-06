@@ -5,9 +5,6 @@
 
 <b>🌐 Redes Sociais:</b>
 
-> 🤍 Se inscreva no meu canal do YouTube e apoie o projeto a chegar nos **500 inscritos**.  
-> 🤍 Subscribe to my YouTube channel and help the project reach **500 subscribers**.
-
 <div>
   <a href="https://www.youtube.com/@lofi_sleep" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" />
