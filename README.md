@@ -6,7 +6,7 @@
 
 ---
 
-### 🌐 Social Media
+### Social Media
 
 <a href="https://www.youtube.com/@tizilPrime" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" />
@@ -23,29 +23,15 @@
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
-### 🎨 Frontend
-<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs&perline=6" />
 
-### ⚙️ Backend
-<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"/>
-<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
-<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,go,python,java,cs,cpp&perline=6" />
 
-### 🧰 Tools & Infrastructure
-<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
-<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
-<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"/>
+### Tools & Infrastructure
+<img src="https://skillicons.dev/icons?i=docker,git,postgres,mysql,linux,bash&perline=6" />
 
 </div>
