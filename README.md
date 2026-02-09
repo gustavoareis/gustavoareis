@@ -8,7 +8,7 @@
 
 ### 🌐 Social Media
 
-<a href="https://www.youtube.com/@lofi_sleep" target="_blank">
+<a href="https://www.youtube.com/@tizilPrime" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/gustavoreisz_/" target="_blank">
