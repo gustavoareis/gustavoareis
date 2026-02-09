@@ -32,6 +32,6 @@
 <img src="https://skillicons.dev/icons?i=nodejs,go,python,java,cs,cpp&perline=6" />
 
 ### Tools & Infrastructure
-<img src="https://skillicons.dev/icons?i=docker,git,postgres,mysql,linux,bash&perline=6" />
+<img src="https://skillicons.dev/icons?i=docker,git,postgres,mysql,linux,&perline=5" />
 
 </div>
