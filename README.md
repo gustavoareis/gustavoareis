@@ -29,7 +29,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs&perline=6" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,go,python,java,cpp,cs,php&perline=7" />
+<img src="https://skillicons.dev/icons?i=nodejs,go,python,cpp,cs,php&perline=6" />
 
 ### Tools & Infrastructure
 <img src="https://skillicons.dev/icons?i=docker,git,postgres,linux&perline=4" />
