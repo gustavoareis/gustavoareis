@@ -26,7 +26,7 @@
 ## Technologies
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs&perline=6" />
+<img src="https://skillicons.dev/icons?i=js,ts,nextjs&perline=4" />
 
 ### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,go,python,cpp,cs,php&perline=6" />
