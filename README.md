@@ -1,37 +1,54 @@
 <div align="center">
 
-## 🍂 Welcome to my profile
-
+## 🍂 Hi, I'm Gustavo!
+  
 <img alt="Coding Cat" width="300" src="assets/cat.gif" />
 
 ---
 
-### Social Media
-
+### 🌐 Let's Connect
+  
+<a href="https://www.linkedin.com/in/gustavoalreis/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <a href="https://www.youtube.com/@tizilPrime" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/gustavoreisz_/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="mailto:gustavoalreisz@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/gustavoalreis/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 ---
 
-## Technologies
+## 🛠️ My Tech Stack
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs&perline=6" />
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <b>Frontend</b><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs" />
+    </td>
+    <td align="center" width="33%">
+      <b>Backend</b><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,go,python,cpp,cs,php" />
+    </td>
+    <td align="center" width="33%">
+      <b>Infra & Tools</b><br>
+      <img src="https://skillicons.dev/icons?i=docker,git,postgres,linux" />
+    </td>
+  </tr>
+</table>
 
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,go,python,cpp,cs,php&perline=6" />
+---
 
-### Tools & Infrastructure
-<img src="https://skillicons.dev/icons?i=docker,git,postgres,linux&perline=4" />
+## 📊 GitHub Ecosystem
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoareis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoareis&layout=compact&langs_count=7&theme=dracula"/>
+</p>
 
 </div>
