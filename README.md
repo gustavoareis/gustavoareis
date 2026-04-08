@@ -29,15 +29,15 @@
   <tr>
     <td align="center" width="33%">
       <b>Frontend</b><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,flutter" />
     </td>
     <td align="center" width="33%">
       <b>Backend</b><br>
-      <img src="https://skillicons.dev/icons?i=nodejs,go,python,cpp,cs,php" />
+      <img src="https://skillicons.dev/icons?i=python,nodejs,go,cpp,php" />
     </td>
     <td align="center" width="33%">
       <b>Infra & Tools</b><br>
-      <img src="https://skillicons.dev/icons?i=docker,git,postgres,linux" />
+      <img src="https://skillicons.dev/icons?i=docker,git,postgres,linux,githubactions" />
     </td>
   </tr>
 </table>
