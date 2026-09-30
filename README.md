@@ -2,7 +2,7 @@
 
 ## 🍂 Hi, Welcome to my pf!
   
-<img alt="Coding Cat" width="300" src="assets/cat.gif" />
+<img alt="Coding Cat" width="300" src="assets/cat-working-gif-by-jjjjjohn.gif" />
 
 ---
 
